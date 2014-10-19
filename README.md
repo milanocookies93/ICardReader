@@ -13,7 +13,7 @@ Step 3) Create a file 'card.json' and have the UINs of users as a key with their
     "987654321":"Sarah"
   }
   
-It is important to note that a student's UIN is private information and should not be put on internet or shared.
+It is important to note that a student's UIN is private information and should not be put on internet or made publicly accessible.
 
 Step 4) Get a USB Card reader and plug it in to your computer.
 
